@@ -5,6 +5,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import Mapa from "./Mapa";
 import Pastelaria from "./Pastelaria";
 
+
 function PastelariaScreen({ navigation }) {
   return <Pastelaria></Pastelaria>;
 }
